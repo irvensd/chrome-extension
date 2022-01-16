@@ -8,4 +8,4 @@ Made with Javascript, CSS, HTML
 Made by Irvens Dupuy 
 
 
-![](trax.gif)
+![](https://github.com/irvensd/chrome-extension/blob/main/TRAX.gif)
